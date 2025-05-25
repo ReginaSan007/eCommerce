@@ -19,9 +19,7 @@ body{
     bottom: 0;
     right: 0;
     background: #fff;
-    opacity: 1;
-    z-index: 19;
-    animation: fade-out 2s forwards 1;
+    animation: fade-out 25s forwards 1;
     pointer-events: none;
 }
 
